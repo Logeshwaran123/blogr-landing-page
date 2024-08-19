@@ -1,0 +1,11 @@
+/* QUERIES */
+@media (max-width: 420px) {
+  html {
+    font-size: 8px;
+  }
+
+  .card {
+    max-width: 32rem;
+    padding: 1.6rem;
+  }
+}
